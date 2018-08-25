@@ -2,4 +2,4 @@ site_name: ssslinppp-docs
 pages:
     - Home: index.md
     - About: about.md
-repo_url: https://github.com/ssslinppp/rtddocs/
+repo_url: https://github.com/ssslinppp/rtddocs.git
