@@ -6,7 +6,7 @@ site_name: ssslinppp-docs
 #    - About: about.md
 #repo_url: https://github.com/ssslinppp/rtddocs.git
 
-nav:
+pages:
   - Home: index.md
   - contxet: ./
   - 'User Guide': 'xxx.md'
