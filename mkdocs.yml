@@ -1,6 +1,6 @@
 site_name: ssslinppp-docs
 #pages:
-#    - Home: index.md
-#    - 'User Guide': 'xxx.md'
-#    - About: about.md
+    - Home: index.md
+    - 'User Guide': 'xxx.md'
+    - About: about.md
 #repo_url: https://github.com/ssslinppp/rtddocs.git
