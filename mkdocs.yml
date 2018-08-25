@@ -1,7 +1,7 @@
 site_name: ssslinppp-docs
-pages:
-    - Home: index.md
-    - 'User Guide': 'xxx.md'
-    - mysql : about/mysql/mysqlIndex.md
-    - About: about.md
+#pages:
+#    - Home: index.md
+#    - 'User Guide': 'xxx.md'
+#    - mysql : about/mysql/mysqlIndex.md
+#    - About: about.md
 #repo_url: https://github.com/ssslinppp/rtddocs.git
