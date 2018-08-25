@@ -5,3 +5,13 @@ site_name: ssslinppp-docs
 #    - mysql : about/mysql/mysqlIndex.md
 #    - About: about.md
 #repo_url: https://github.com/ssslinppp/rtddocs.git
+
+nav:
+  - Home: index.md
+  - contxet: ./
+  - 'User Guide': 'xxx.md'
+  - xxx:
+    - xx3: about/mysql/mysqlIndex.md
+    - xx4: about/mysql/t1.md
+  - mysql : about/mysql/mysqlIndex.md
+  - About: about.md
