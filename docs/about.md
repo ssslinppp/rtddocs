@@ -1,5 +1,3 @@
 # Patrem tophis
-[f2][1]  
-
-  [1]: f2.md
+[f2](f2.md)
 
