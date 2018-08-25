@@ -32,5 +32,29 @@ git remote add origin http://github.com/[yourusername]/[yourrepository].git #设
 git push origin master  #推送到远端git
 ```
 
+## 支持markdown格式
+[recommonmark支持md格式](https://recommonmark.readthedocs.io/en/latest/)
+
+#### 安装`recommonmark`
+```
+ pip install recommonmark
+```
+
+#### 修改`conf.py`
+```
+from recommonmark.parser import CommonMarkParser
+
+source_parsers = {
+    '.md': CommonMarkParser,
+}
+
+source_suffix = ['.rst', '.md']
+```
+
+#### 创建docs文件夹
+在该docs下写md文件
+
+---
+
 ## 导入到ReadtheDocs
 还是在github里面进入到你创建的远端仓库里面，进入settings -> Service 然后添加 readtheDocs，然后你需要进入ReadtheDocs里面创建一个账号(如果没有账号的话），连接你的github账号，把你的仓库导入，导入成功之后，点击阅读文档。就可以看到web效果了
