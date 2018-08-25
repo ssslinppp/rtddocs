@@ -35,6 +35,8 @@ git push origin master  #推送到远端git
 ## 支持markdown格式
 [recommonmark支持md格式](https://recommonmark.readthedocs.io/en/latest/)
 
+[mkdocs](https://www.mkdocs.org/#installing-mkdocs)
+
 #### 安装`recommonmark`
 ```
  pip install recommonmark
