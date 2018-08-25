@@ -1,5 +1,4 @@
 site_name: sslinpp
 pages:
   - index: index.md
-  - about: about.md
-  #- context: ./
+  - about: about.md 
