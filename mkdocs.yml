@@ -1,5 +1,5 @@
 site_name: ssslinppp-docs
-#pages:
+pages:
     - Home: index.md
     - 'User Guide': 'xxx.md'
     - About: about.md
